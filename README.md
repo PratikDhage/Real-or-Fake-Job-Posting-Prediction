@@ -46,31 +46,31 @@ The models developed are:
 ![Distribution of Employment Type](./images/Distribution_of_employment_type.png)
 
 ### Distribution of Required Education
-![Distribution of Required Education](../Images/Distribution_of_required_education.png)
+![Distribution of Required Education](./images/Distribution_of_required_education.png)
 
 ### Distribution of Job Function
-![Distribution of Job Function](../Images/Distribution_of_function.png)
+![Distribution of Job Function](./images/Distribution_of_function.png)
 
 ### Distribution of Required Experience
-![Distribution of Required Experience](../Images/Distribution_of_required_experience.png)
+![Distribution of Required Experience](./images/Distribution_of_required_experience.png)
 
 ### Distribution of Telecommuting
-![Distribution of Telecommuting](../Images/Distribution_of_telecommunicating.png)
+![Distribution of Telecommuting](./images/Distribution_of_telecommunicating.png)
 
 ### Distribution of Has Company Logo
-![Distribution of Has Company Logo](../Images/Distribution_of_has_company_logo.png)
+![Distribution of Has Company Logo](./images/Distribution_of_has_company_logo.png)
 
 ### Distribution of Has Questions
-![Distribution of Has Questions](../Images/Distribution_of_has_questions.png)
+![Distribution of Has Questions](./images/Distribution_of_has_questions.png)
 
 ### Distribution of Fraudulent Job Postings
-![Distribution of Fraudulent Job Postings](../Images/Distribution_of_fraudulent_job_posting.png)
+![Distribution of Fraudulent Job Postings](./images/Distribution_of_fraudulent_job_posting.png)
 
 ### Word Cloud for Real Job Postings
-![Word Cloud for Real Job Postings](../Images/word_cloud_real.png)
+![Word Cloud for Real Job Postings](./images/word_cloud_real.png)
 
 ### Word Cloud for Fake Job Postings
-![Word Cloud for Fake Job Postings](../Images/word_cloud_fake.png)
+![Word Cloud for Fake Job Postings](./images/word_cloud_fake.png)
 
 ### Conclusions from EDA
 
@@ -91,30 +91,30 @@ Fake job postings tend to have:
 **Model Training**
 
 ### ANN Model Training Performance
-![ANN Model Training Performance](../Images/ANN.png)
+![ANN Model Training Performance](./images/ANN.png)
 
 ### LSTM Model Training Performance
-![LSTM Model Training Performance](../Images/LSTM.png)
+![LSTM Model Training Performance](./images/LSTM.png)
 
 ### CNN Model Training Performance
-![CNN Model Training Performance](../Images/CNN.png)
+![CNN Model Training Performance](./images/CNN.png)
 
 ### BiLSTM Model Training Performance
-![BiLSTM Model Training Performance](../Images/BiLSTM.png)
+![BiLSTM Model Training Performance](./images/BiLSTM.png)
 
 **Confusion Matrix**
 
 ### ANN Model Confusion Matrix
-![ANN Model Confusion Matrix](../Images/ann_cm.png)
+![ANN Model Confusion Matrix](./images/ann_cm.png)
 
 ### LSTM Model Confusion Matrix
-![LSTM Model Confusion Matrix](../Images/lstm_cm.png)
+![LSTM Model Confusion Matrix](./images/lstm_cm.png)
 
 ### CNN Model Confusion Matrix
-![CNN Model Confusion Matrix](../Images/CNN_cm.png)
+![CNN Model Confusion Matrix](./images/CNN_cm.png)
 
 ### BiLSTM Model Confusion Matrix
-![BiLSTM Model Confusion Matrix](../Images/BiLSTM_cm.png)
+![BiLSTM Model Confusion Matrix](./images/BiLSTM_cm.png)
 
 
 

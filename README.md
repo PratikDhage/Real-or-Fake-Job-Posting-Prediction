@@ -43,7 +43,7 @@ The models developed are:
 **Exploratory Data Analysis (EDA)**
 
 ### Distribution of Employment Type
-![Distribution of Employment Type](../images/Distribution_of_employment_type.png)
+![Distribution of Employment Type](./images/Distribution_of_employment_type.png)
 
 ### Distribution of Required Education
 ![Distribution of Required Education](../Images/Distribution_of_required_education.png)

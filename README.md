@@ -133,9 +133,3 @@ Fake job postings tend to have:
 **CONCLUSION**
 
 All models provide a robust foundation for detecting fraudulent job postings, and the insights gained from EDA can be used to further refine and improve model performance. While all models demonstrated strong performance in detecting patterns within the data, the BiLSTM model's superior ability to capture and leverage bidirectional dependencies resulted in the highest accuracy and best overall performance. This suggests that for this particular dataset and task, models that can capture sequential patterns in both forward and backward directions offer a significant advantage.
-
-
-**Connect with Me**
-
-- [LinkedIn](https://www.linkedin.com/in/barrenkala-veera-venkata-karthik-b58b9a285/)
-- [GitHub](https://github.com/Karthik110505)
